@@ -1,4 +1,14 @@
-### Hi there 👋
+### Jang Haryeom 👋
+
+📌 Master's Student of Big Data Analytics in KyungHee University.
+
+📌 I'm interested in
+<blockquote>
+Data Science
+Network Science
+Machine Learning
+Deep Learning
+<blockquote/>
 
 <!--
 **CocoRoF/CocoRoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
