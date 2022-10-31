@@ -18,8 +18,11 @@ Deep Learning
 </blockquote>
 
 ## What I Learn
-
 ### Statistics
+<blockquote>
+  1. Describe Stastistics</br>
+  2. Inferentical Stastistics</br>
+  :
 
 ### Network Science
 
