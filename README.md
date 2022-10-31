@@ -1,4 +1,4 @@
-### Jang Haryeom 👋
+## Jang Haryeom 👋
 📌 Bachelor's degree of Psychology in SahmYook University. </br>
 📌 Master's Student of Big Data Analytics in KyungHee University. </br>
 📌 I'm interested in
@@ -9,17 +9,17 @@ Machine Learning </br>
 Deep Learning
 </blockquote>
 
-### Strong Point
+## Strong Point
 
-### What I Learn
+## What I Learn
 
-## Statistics
+### Statistics
 
-## Network Science
+### Network Science
 
-## Machine Learning
+### Machine Learning
 
-## Deep Learning
+### Deep Learning
 
 <!--
 **CocoRoF/CocoRoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
