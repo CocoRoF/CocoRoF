@@ -3,11 +3,18 @@
 📌 Master's Student of Big Data Analytics in KyungHee University. </br>
 📌 I'm interested in
 <blockquote>
-Data Science </br>
-Network Science </br>
-Machine Learning </br>
-Deep Learning
+Data Science & Machine Learning & Deep Learning</br>
+Network Science</br>
+Recommender Systems</br>
 </blockquote>
+
+📌 Domain Knowledges
+<blockquote>
+Psychology (Bachelor's Degree)</br>
+Pharmacy (Under Sophomore Level)</br>
+Business
+</blockquote>
+
 
 ## Strong Point
 ### 1. Network Science
