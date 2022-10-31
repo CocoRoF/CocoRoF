@@ -7,7 +7,7 @@ Data Science </br>
 Network Science </br>
 Machine Learning </br>
 Deep Learning
-<blockquote/>
+</blockquote>
 
 ### Strong Point
 
