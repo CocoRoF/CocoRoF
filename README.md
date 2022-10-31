@@ -10,6 +10,12 @@ Deep Learning
 </blockquote>
 
 ## Strong Point
+### 1. Network Science
+<blockquote>
+  1. Term Paper: Citation Network + Keyword Network Analysis with LDA Topic modeling </br>
+  
+  
+</blockquote>
 
 ## What I Learn
 
