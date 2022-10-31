@@ -4,9 +4,9 @@
 
 📌 I'm interested in
 <blockquote>
-Data Science
-Network Science
-Machine Learning
+Data Science </br>
+Network Science </br>
+Machine Learning </br
 Deep Learning
 <blockquote/>
 
