@@ -1,6 +1,6 @@
 ### Jang Haryeom 👋
-📌 Bachelor's degree of Psychology in SahmYook University.
-📌 Master's Student of Big Data Analytics in KyungHee University.
+📌 Bachelor's degree of Psychology in SahmYook University. </br>
+📌 Master's Student of Big Data Analytics in KyungHee University. </br>
 📌 I'm interested in
 <blockquote>
 Data Science </br>
