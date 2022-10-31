@@ -22,11 +22,31 @@ Deep Learning
 <blockquote>
   1. Describe Stastistics</br>
   2. Inferentical Stastistics</br>
-  :
+    : Understanding of Statistical Inference, Multiple Linear Regression
+  
+  
+
+</blockquote>
 
 ### Network Science
+<blockquote>
+  1. Citation Network Analysis(CNA)</br>
+  2. Keyword Network Analysis(KNA)</br>
+
+
+
+
+</blockquote>
 
 ### Machine Learning
+<blockquote>
+  1. Linear Regression</br>
+  2. Logistic Regression</br>
+
+
+
+
+'
 
 ### Deep Learning
 
