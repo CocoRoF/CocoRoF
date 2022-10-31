@@ -9,6 +9,18 @@ Machine Learning </br>
 Deep Learning
 <blockquote/>
 
+### Strong Point
+
+### What I Learn
+
+## Statistics
+
+## Network Science
+
+## Machine Learning
+
+## Deep Learning
+
 <!--
 **CocoRoF/CocoRoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
