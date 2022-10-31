@@ -40,8 +40,8 @@ Deep Learning
 
 ### Machine Learning
 <blockquote>
-  1. Linear Regression</br>
-  2. Logistic Regression</br>
+  1. KMOOC Assignment - Linear Regression</br>
+  2. KMOOC Assignment - Logistic Regression</br>
 
 
 
