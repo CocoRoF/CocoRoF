@@ -22,7 +22,7 @@ Deep Learning
 <blockquote>
   1. Describe Stastistics</br>
   2. Inferentical Stastistics</br>
-    : Understanding of Statistical Inference, Multiple Linear Regression
+  &nbsp;&nbsp;: Understanding of Statistical Inference, Multiple Linear Regression
   
   
 
