@@ -34,8 +34,6 @@ Deep Learning
   2. Keyword Network Analysis(KNA)</br>
 
 
-
-
 </blockquote>
 
 ### Machine Learning
@@ -44,12 +42,15 @@ Deep Learning
   2. KMOOC Assignment - Logistic Regression</br>
 
 
-
-
-'
+</blockquote>
 
 ### Deep Learning
+<blockquote>
+  1. SNUI Lecture. CNN</br>
+  2. SNUI Lecture. RNN</br>
 
+
+</blockquote>
 <!--
 **CocoRoF/CocoRoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
