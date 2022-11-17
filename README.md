@@ -1,4 +1,4 @@
-## Ha-ryeom Jang 👋
+## Ha-Ryeom Jang 👋
 📌 Bachelor's degree of Psychology in SahmYook University. </br>
 📌 Master's Student of Big Data Analytics in KyungHee University. </br></br>
 📌 I'm interested in
