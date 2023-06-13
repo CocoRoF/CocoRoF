@@ -1,74 +1,28 @@
-## Ha-Ryeom Jang 👋
-📌 Bachelor's degree of Psychology in SahmYook University. </br>
-📌 Master's Student of Big Data Analytics in KyungHee University. </br></br>
-📌 I'm interested in
-<blockquote>
-Data Science & Machine Learning & Deep Learning</br>
-Network Science</br>
-Recommender Systems</br>
-</blockquote>
+## Hi!👋
 
-📌 Domain Knowledges
-<blockquote>
-Psychology (Bachelor's Degree)</br>
-Pharmacy (Under Sophomore Level)</br>
-Business
-</blockquote>
+- 이름 : 장하렴 </br>
+- 학사 : 심리학과 (삼육대학교) </br>
+- 석사 : 빅데이터응용학과 공학전공 (경희대학교) </br>
+- 관심분야 : 빅데이터분석(자연어처리 및 네트워크 분석), 데이터 축소 및 계산 경량화, 추천시스템
+- 취미 : 노래, 피아노, 비디오게임
 
-
-## Strong Point
-### 1. Network Science
+## 강점
+### 1. 네트워크과학(Network Science)
 <blockquote>
   1. Term Paper: Citation Network + Keyword Network Analysis with LDA Topic modeling </br>
-  
-  
+
 </blockquote>
 
-## What I Learn
-### Statistics
+## 수상 및 장학
 <blockquote>
-  1. Describe Stastistics</br>
-  2. Inferentical Stastistics</br>
-  &nbsp;&nbsp;: Understanding of Statistical Inference, Multiple Linear Regression
-  
-  
-
+  1. KHU-Fellowship(2022) 장학 </br>
+  2. 경영정보관련 춘계학술대회 우수논문상(2023) </br>
+  3. 영림원 대학(원)생 ERP 아이디어 공모전 대상(2023) </br>
 </blockquote>
 
-### Network Science
+## 논문 및 실적
 <blockquote>
-  1. Citation Network Analysis(CNA)</br>
-  2. Keyword Network Analysis(KNA)</br>
-
-
+  1. KCI, 지능정보연구(2023) - 건강추천시스템 연구동향 조사(예정)
+  2. 라이브커머스(예정)
 </blockquote>
 
-### Machine Learning
-<blockquote>
-  1. KMOOC Assignment - Linear Regression</br>
-  2. KMOOC Assignment - Logistic Regression</br>
-
-
-</blockquote>
-
-### Deep Learning
-<blockquote>
-  1. SNUI Lecture. CNN</br>
-  2. SNUI Lecture. RNN</br>
-
-
-</blockquote>
-<!--
-**CocoRoF/CocoRoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
