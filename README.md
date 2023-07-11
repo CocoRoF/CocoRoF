@@ -14,8 +14,8 @@
 
 ## 수상 및 장학
 > 1. KHU-Fellowship(2022) 장학 <br>
-> 2. 경영정보관련 춘계학술대회 우수논문상 [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/%EA%B2%BD%EC%98%81%EC%A0%95%EB%B3%B4%EA%B4%80%EB%A0%A8%ED%95%99%ED%9A%8C_%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.jpg?raw=true)<br>
-> 3. 영림원 대학(원)생 ERP 아이디어 공모전 대상(2023) [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/%EC%98%81%EB%A6%BC%EC%9B%90ERP%EA%B3%B5%EB%AA%A8%EC%A0%84_%EB%8C%80%EC%83%81.jpg?raw=true)<br>
+> 2. 경영정보관련 춘계학술대회 우수논문상 [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/경영정보관련학회_우수논문상.jpg?raw=true)<br>
+> 3. 영림원 대학(원)생 ERP 아이디어 공모전 대상(2023) [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/영림원ERP공모전_대상.jpg?raw=true)<br>
 
 ## 논문
 > 1. KCI, 지능정보연구(2023) - 건강추천시스템 연구동향 조사(예정) </br>
