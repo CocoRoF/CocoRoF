@@ -1,13 +1,13 @@
 ## Hi!👋
 ![pic2_작게](https://github.com/CocoRoF/CocoRoF/assets/101104772/c0c3a900-8d68-40a1-bf00-0293c65b8bd1)
 
-- 이름 : 장하렴 </br>
-- 학사 : 심리학과 (삼육대학교) </br>
-- 석사 : 빅데이터응용학과 공학전공 (경희대학교) </br>
-- 관심분야 : 빅데이터분석(자연어처리 및 네트워크 분석), 데이터 축소 및 계산 경량화, 추천시스템
-- 취미 : 노래, 피아노, 비디오게임
+- Name : 장하렴 </br>
+- Boucher Degree : Psychology (SahmYook Univ.) </br>
+- Master Degree : Bigdata Analysis Engeeniring Major (KyungHee Univ.) </br>
+- Interested in : Bigdata/ML/DL(Nature Language Processing & Network Analysis), Data Reduction & Lightweight deep learning, Recommander System
+- I love : Singing, Playing Piano, Video Game
 
-## 강점
+## Strong Points
 ### 1. 네트워크과학(Network Science)
 > 1. Term Paper: Citation Network + Keyword Network Analysis with LDA Topic modeling </br>
 
