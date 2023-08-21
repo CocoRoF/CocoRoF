@@ -1,4 +1,5 @@
 ## Hi!👋
+![KakaoTalk_20230821_151801245](https://github.com/CocoRoF/CocoRoF/assets/101104772/a973aac1-8b52-4c35-8ff0-3dca0e05b1b6)
 
 - 이름 : 장하렴 </br>
 - 학사 : 심리학과 (삼육대학교) </br>
