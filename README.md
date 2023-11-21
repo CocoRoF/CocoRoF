@@ -4,7 +4,7 @@
 - Name : 장하렴 </br>
 - Boucher Degree : Psychology (SahmYook Univ.) </br>
 - Master Degree : Bigdata Analysis Engeeniring Major (KyungHee Univ.) </br>
-- Interested in : Bigdata/ML/DL(Nature Language Processing & Network Analysis), Data Reduction & Lightweight deep learning, Recommander System
+- Interested in : Bigdata/ML/DL(Natural Language Processing & Network Analysis), Data Reduction & Lightweight deep learning, Recommander System
 - I love : Singing, Playing Piano, Video Game
 
 ## Strong Points
