@@ -1,5 +1,5 @@
 ## Hi!👋
-![pic2_작게](https://github.com/CocoRoF/CocoRoF/assets/101104772/c0c3a900-8d68-40a1-bf00-0293c65b8bd1)
+![e 장하렴 고화질](https://github.com/user-attachments/assets/acf108c3-3783-4672-a256-5f0a2bbd38e3)
 
 - Name : 장하렴 </br>
 - Boucher Degree : Psychology (SahmYook Univ.) </br>
