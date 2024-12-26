@@ -6,19 +6,6 @@
 - Interested in : Bigdata/ML/DL(Natural Language Processing & Network Analysis), Data Reduction & Lightweight deep learning, Recommander System
 - I love : Singing, Playing Piano, Video Game
 
-## Strong Points
-### 1. 네트워크과학(Network Science)
-> 1. Term Paper: Citation Network + Keyword Network Analysis with LDA Topic modeling </br>
-
-## 수상 및 장학
-> 1. 제 1회 삼육도서 공모전 대상(1위, 2018)[(Certification)] <br>
-> 2. 제 1회 삼육도서 팀 공모전 대상(1위, 2018)[(Certification)] <br>
-> 3. 제 3회 중독 창의 공모전 장려상(4위, 2018)[(Certification)] <br>
-> 4. KHU-Fellowship(2022) 장학[(Certification)] <br>
-> 5. 경영정보관련 춘계학술대회 우수논문상 [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/경영정보관련학회_우수논문상.jpg?raw=true)<br>
-> 6. 영림원 대학(원)생 ERP 아이디어 공모전 대상(1위, 2023) [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/영림원ERP공모전_대상.jpg?raw=true)<br>
-> 7. 제 11회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터 분석 부문 대상(1위, 2023)[(Certification)]
-
 ## Paper
 > 1. 건강추천시스템 (HRS) 연구 동향: 인용네트워크 분석과 GraphSAGE를 활용하여(장하렴, 유지수, 양성병. 2023, 지능정보연구))
 > 2. 재생에너지 발전량 예측제도 기반 집합전력자원 구성모델 개발(강은경, 장하렴 외 2명. 2023, 지능정보연구)
@@ -37,5 +24,19 @@
 > 7. 주식토론방 게시글을 활용한 주가예측 모형 정확도 비교분석(유지수, 장하렴 외 3명. 2024. 06. 한국경영정보학회)
 > 8. DLinear 모델을 적용한 비용 효율적 전력 수요 예측: 기상 데이터 활용(김진수, 장하렴, 강민석, 양성병, 2024. 08, 한국경영학회)
 
-## 프로젝트
+## Awards
+> 1. 삼육대학교 ACE+ 제1회 Book Story 도서 공모전 대상(1위, 2018)[(Certification)]
+> 2. 삼육대학교 제1회 삼육도서 100선 팀 공모전 대상(1위, 2018)[(Certification)]
+> 3. 제1회 삼육대학교 독서 감상문 공모전 대상(1위, 2019)
+> 4. 제 3회 중독 창의 공모전 장려상(4위, 2018)[(Certification)]
+> 5. KHU-Fellowship(2022) 장학[(Certification)]
+> 6. 경영정보관련 춘계학술대회 우수논문상 [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/경영정보관련학회_우수논문상.jpg?raw=true)
+> 7. 영림원 대학(원)생 ERP 아이디어 공모전 대상(1위, 2023) [(Certification)](https://github.com/CocoRoF/CocoRoF/blob/main/ImageFile/영림원ERP공모전_대상.jpg?raw=true)
+> 8. 제 11회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터 분석 부문 대상(1위, 2023)[(Certification)]
+> 9. 한국지능정보시스템학회 2024 춘계학술대회 최우수논문상
+> 10. 한국경영정보학회 2024 춘계통합학술대회 최우수논문상
+> 11. 2024 한국경영학회 융합학술대회 우수논문상
+> 12. 제12회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터 분석 부문 대상(1위, 2024)
+
+## Project
 > 1. 삼성 엔지니어링 - 파업 리스크 관리
