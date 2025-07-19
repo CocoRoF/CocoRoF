@@ -1,86 +1,104 @@
 # 👋 Hi, I'm HaRyeom Jang (장하렴)
 
-### 📌 About Me  
-Multidisciplinary researcher with a background in **Psychology (B.A.)** and **Big Data Engineering (M.S.)**.  
-Passionate about the synergy between **Machine Learning**, **Natural Language Processing**, and **Network Science**.  
-Striving to build **intelligent, lightweight**, and **explainable AI systems** — from **representation learning** to **reinforcement learning**, across **research & application**.
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-orange?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/CocoRoF)
+[![Website](https://img.shields.io/badge/Portfolio-hrletsgo.me-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://hrletsgo.me/main)
+[![Email](https://img.shields.io/badge/gkfua00@plateer.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gkfua00@plateer.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-DD0031?style=for-the-badge&logo=nvidia&logoColor=white)
-
+![CocoRoF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CocoRoF&show_icons=true&theme=radical)
 ---
 
 ### 🎯 Interests & Research Focus  
-- 📊 Big Data Analysis & Feature Engineering  
-- 🤖 Machine Learning & Deep Learning  
-- 🧠 NLP & Graph-based Network Analysis  
-- 🧩 Knowledge Retention in LLM Training (KL Divergence, Catastrophic Forgetting mitigation)  
-- 💡 Lightweight Models, Data-efficient Learning, and GISTLoss  
-- 🧭 Reinforcement Learning (PPO, GRPO), Policy Tuning  
-- 📚 Embedding Optimization (Sentence-Transformers, GloVe, OpenAI Embeddings)  
-- 📦 Recommendation Systems & Representation Personalization  
-- 🎨 Generative AI (ComfyUI, Stable Diffusion, Unity, Design-to-Generation)
+
+> I’m a researcher with a background in **Psychology** and **Big Data Engineering**,  
+> currently diving deep into **LLM Alignment**, **Reinforcement Learning**, and **Knowledge Retention**.  
+> My goal is to build **efficient**, **intelligent**, and **human-aligned AI systems** that understand and adapt.  
+
+- 💡 Knowledge Injection & Retention in LLMs (KL Divergence, GISTLoss)  
+- 🧠 NLP, Embedding Optimization & Sentence Transformers  
+- ⚙️ RLHF: PPO, GRPO for Policy Alignment  
+- 🧩 Lightweight Deep Learning & LoRA/PEFT tuning  
+- 🔬 Multi-modal GenAI: Unity + ComfyUI + Stable Diffusion  
+- 🔗 Graph-based Analysis: Network Science, GraphSAGE  
+- 🧬 Recommendation Systems & Human-Behavior Modeling
 
 ---
 
 ### 🧠 Tech Stack  
-| Language | Framework / Tooling | ML / DL Tools | UI / UX | Other |
-|---------|----------------------|---------------|---------|-------|
-| Python, C#, TypeScript, JavaScript | HuggingFace Transformers, TRL, DeepSpeed, LoRA, PEFT | PyTorch, Scikit-learn, XGBoost, Sentence-Transformers | React, Svelte, Tailwind, SCSS, CSS | Unity, ComfyUI, OpenCV, Stable Diffusion |
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML/DL & Training Frameworks:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/Transformers-HF-orange?style=flat-square&logo=huggingface&logoColor=white)  
+![TRL](https://img.shields.io/badge/TRL-PPO/GRPO/Reward--Tuning-blueviolet?style=flat-square)  
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-Megatron--scale-black?style=flat-square&logo=nvidia&logoColor=white)  
+![LoRA](https://img.shields.io/badge/PEFT/LoRA-ParameterEfficientTraining-yellow?style=flat-square)
+
+**Frontend & Creative Tools:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)  
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+
+**Visualization & GenAI:**  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)  
+![Stable Diffusion](https://img.shields.io/badge/StableDiffusion-GenAI-purple?style=flat-square)  
+![ComfyUI](https://img.shields.io/badge/ComfyUI-WorkflowDesigner-lightgrey?style=flat-square)
 
 ---
 
-### 📝 Representative Papers  
-1. **건강추천시스템(HRS) 연구 동향** – GraphSAGE 및 인용 네트워크 분석 *(지능정보연구, 2023)*  
-2. **재생에너지 기반 전력자원 구성모델** *(지능정보연구, 2023)*  
-3. *(투고)* **라이브커머스 기반 여행소비 분석** *(JHMM, 2024)*  
-4. **주식토론방 기반 주가예측 모델링** *(IEEE Access, 2024)*  
-5. *(투고)* **호텔리뷰 생성형AI 서비스 개발** *(2024)*
+### 📚 Publications & Projects  
+> See my full work on [🔗 HuggingFace](https://huggingface.co/CocoRoF) and [🌐 hrletsgo.me](https://hrletsgo.me/main)
+
+#### 📘 대표 논문  
+1. **GraphSAGE 기반 건강추천시스템 분석** (2023, 지능정보연구)  
+2. **전력 예측 기반 집합전력자원 구성모델** (2023, 지능정보연구)  
+3. *(투고)* **실시간 라이브커머스 기반 소비행태 분석** (JHMM, 2024)  
+4. **주식토론방 기반 주가예측** (IEEE Access, 2024)  
+5. *(투고)* **호텔 리뷰 관리형 생성형 AI 서비스 개발** (2024)
+
+#### 🛠 주요 프로젝트  
+- 삼성엔지니어링 - **파업 리스크 관리 시스템**  
+- 전력 수요 예측 모델링 (DLinear + 기상 데이터)  
+- RL 기반 주가예측 모델 트레이닝 (PPO / Reward Signal 기반)  
+- 라이브커머스 실시간 채팅 분석 + 매출 예측
 
 ---
 
-### 🎤 Conferences (Selected)
-- **생성형 AI 기반 호텔 리뷰 관리 서비스 개발** *(2024, 한국경영정보학회)*  
-- **라이브커머스 소비자 행태 분석** *(2024, 한국지능정보시스템학회)*  
-- **PPO 기반 주가 예측 정확도 분석** *(2024, 한국경영정보학회)*  
-- **DLinear 기반 전력 수요 예측** *(2024, 한국경영학회)*
+### 🏆 Awards & Honors  
+| 년도 | 수상 내용 |
+|------|-----------|
+| 2023 | 산업통상자원부 공공데이터 BI 공모전 **대상(1위)** |
+| 2023 | 영림원 ERP 아이디어 공모전 **대상(1위)** |
+| 2024 | 산업통상자원부 BI 공모전 빅데이터 부문 **대상(2년 연속)** |
+| 2024 | 한국경영정보학회 & 지능정보시스템학회 **최우수논문상** |
+| 2018-19 | 삼육대학교 독서/도서 공모전 **대상 3회** |
+| 2022 | KHU Fellowship 장학생 선정 |
 
 ---
 
-### 🏆 Awards  
-- 🥇 산업통상자원부 공공데이터 BI 공모전 빅데이터 부문 대상 (2023, 2024 연속 수상)  
-- 🥇 영림원 ERP 공모전 대상 (2023)  
-- 🥇 한국경영정보학회, 한국지능정보시스템학회 최우수논문상 (2024)  
-- 🥇 삼육대학교 도서 공모전 대상 3관왕 (2018~2019)  
-- 🎓 KHU-Fellowship 장학생 (2022)
+### 🗣 Conference Presentations (Selected)
+- **호텔 리뷰 관리 AI 시스템** (2024, 한국경영정보학회)  
+- **PPO 기반 주가 예측 정확도 비교** (2024, 한국경영정보학회)  
+- **라이브커머스 실시간 소비 분석** (2023–2024, 지능정보시스템학회 등)  
+- **기상 기반 전력 수요 예측 모델링** (2024, 한국경영학회)
 
 ---
 
-### 🔧 Projects  
-- **삼성엔지니어링 - 파업 리스크 관리 시스템**  
-- **실시간 라이브커머스 분석 파이프라인 구축**  
-- **전력 수요 예측 기반의 시계열 예측 및 기상데이터 통합 시스템**  
-- **PPO 기반 주식토론 분석 모델 트레이닝**
+### 🎮 Hobbies & Interests  
+🎤 Singing | 🎹 Playing Piano | 🎮 RPG & Simulation Games | ✍️ Prompt Crafting & Image Design
 
 ---
 
-### 🧪 Side Research & Development  
-- ✳️ Knowledge Injection for LLM Training  
-- ✳️ KL Divergence 기반 망각 최소화 실험  
-- ✳️ HuggingFace 기반 SFT, DPO, PPO 및 LoRA 적용 훈련  
-- ✳️ Embedding Clustering 및 Dissimilarity Control 전략 연구  
-- ✳️ GISTLoss를 활용한 로버스트 학습 실험
+### 📫 Contact Me  
 
----
-
-### 🎮 Hobbies  
-🎤 Singing | 🎹 Playing Piano | 🎮 Gaming (Especially RPG & Simulation)
-
----
-
-### 📫 Contact  
-- GitHub: [github.com/CocoRoF](https://github.com/CocoRoF)  
-- Email: [jangharry@khu.ac.kr](mailto:jangharry@khu.ac.kr)
+- 📩 Email: [gkfua00@plateer.com](mailto:gkfua00@plateer.com)  
+- 🧠 HuggingFace: [huggingface.co/CocoRoF](https://huggingface.co/CocoRoF)  
+- 🌍 Website: [hrletsgo.me](https://hrletsgo.me/main)  
+- 🐙 GitHub: [github.com/CocoRoF](https://github.com/CocoRoF)
 
 ---
