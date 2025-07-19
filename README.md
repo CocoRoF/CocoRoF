@@ -1,108 +1,108 @@
-# 👋 Hello, I'm **HaRyeom Jang** (장하렴)
+<h1 align="center">Hi there 👋, I'm HR Jang (장하렴)</h1>
 
-> **Big Data Engineer & AI Researcher**  
-> From psychology to machine learning — I focus on building **intelligent, lightweight**, and **reinforcement-aware AI systems**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78400&vCenter=true&multiline=true&width=800&height=60&lines=👨‍🔬+AI+Engineer+%7C+ML%2FDL+Specialist+%7C+Researcher" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Featured Platforms
+<h2 align="center">🚀 My AI Playground</h2>
 
 <p align="center">
   <a href="https://huggingface.co/CocoRoF" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97 CocoRoF-orange?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace">
+    <img src="https://img.shields.io/badge/-🤗 HuggingFace@CocoRoF-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   <a href="https://hrletsgo.me/main" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-HRLETSGO.ME-blueviolet?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/-🌐%20Portfolio%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
-<p align="center"><i>Check out my models, demos, and experiments at HuggingFace and my personal site.</i></p>
+---
+
+<h2>💡 About Me</h2>
+
+<ul>
+  <li>🎓 <strong>Psychology B.A.</strong> (삼육대학교) & <strong>Big Data Engineering M.S.</strong> (경희대학교)</li>
+  <li>💼 AI Engineer / Researcher at Plateer</li>
+  <li>🧠 Strong interest in:
+    <ul>
+      <li>ML/DL (특히 NLP, Time-Series, Network Analysis)</li>
+      <li>LoRA, PPO, DPO, GISTLoss, Continual Learning</li>
+      <li>Edge-Aware Training, KL Divergence, 모델 경량화</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
-## 🧠 Core Focus Areas
+<h2>🔧 Strong Tech Stack</h2>
 
-- **Knowledge Retention in LLM Training** (Catastrophic Forgetting, KL Divergence, GISTLoss)
-- **RLHF & Alignment** (PPO / GRPO / Reward Modeling)
-- **Embedding Optimization** (Sentence-Transformers, OpenAI Embeddings)
-- **Lightweight Fine-Tuning** (LoRA, PEFT, 4bit)
-- **Graph-based NLP & Network Analysis** (GraphSAGE, Citation Networks)
-- **Generative AI Pipelines** (ComfyUI + Stable Diffusion + Prompt Engineering)
+<table>
+  <tr>
+    <td><strong>🧠 ML/DL & Training</strong></td>
+    <td>
 
----
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FF9900?style=flat&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSpeed-FF207A?style=flat&logo=deezer&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRLLib-FC6767?style=flat&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/badge/PEFT-FBBF24?style=flat&logo=lightning&logoColor=black" />
+  <img src="https://img.shields.io/badge/ComfyUI-8B5CF6?style=flat&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
 
-## 💻 Tech Stack (Expertise-Oriented)
+  </td>
+  </tr>
 
-### 🐍 🔥 **Primary Stack – Python & ML/DL**
+  <tr>
+    <td><strong>🖥️ Frontend & Creative Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS/SCSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+      <span style="color: gray">(Creative tools are well-used but not career-core)</span>
+    </td>
+  </tr>
 
-| Category | Tools |
-|---------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-HF-orange?style=flat-square&logo=huggingface) ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-Optimized-black?style=flat-square&logo=nvidia&logoColor=white) ![TRL](https://img.shields.io/badge/TRL-RLHF/GRPO/PPO-blueviolet?style=flat-square) |
-| **Tuning** | ![LoRA](https://img.shields.io/badge/LoRA/PEFT-ParameterEfficient-blue?style=flat-square) ![Bitsandbytes](https://img.shields.io/badge/4bit--quantization-efficient-green?style=flat-square) |
-| **Embedding** | ![SentenceTransformers](https://img.shields.io/badge/SBERT-SentenceTransformers-yellow?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-Embeddings-282C34?style=flat-square&logo=openai&logoColor=white) |
-
----
-
-### 🎨🧬 **Creative AI – ComfyUI & Generative Systems**
-
-> From workflows to visual prototyping — I actively use and extend **ComfyUI** and **Stable Diffusion** to prototype GenAI services and research outputs.
-
-![ComfyUI](https://img.shields.io/badge/ComfyUI-Pipeline%20Builder-grey?style=flat-square&logo=workflow&logoColor=white)  
-![Stable Diffusion](https://img.shields.io/badge/StableDiffusion-AI%20Image%20Generation-purple?style=flat-square)
-
----
-
-### 🧩 Supportive Frontend & Tools
-
-| Category | Tools |
-|----------|-------|
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte) |
-| **Styling** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss) ![SCSS](https://img.shields.io/badge/SCSS-CB6699?style=flat-square&logo=sass) |
-
-> 🛠️ *Comfortable in fullstack tools, though my core work lies in AI & data systems.*
-
----
-
-## 📘 Representative Publications
-
-| 연도 | 제목 |
-|------|------|
-| 2023 | GraphSAGE 기반 건강추천시스템 인용 네트워크 분석 |
-| 2023 | 전력 예측 기반 집합전력자원 구성모델 |
-| 2024 | (투고) 실시간 라이브커머스 기반 소비행태 분석 |
-| 2024 | 주식토론방 기반 주가예측 *(IEEE Access)* |
-| 2024 | (투고) 생성형 AI 기반 호텔리뷰 분석 시스템 |
+  <tr>
+    <td><strong>🧰 DevOps & Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Awards
+<h2>🏆 Achievements</h2>
 
-- 🥇 산업통상자원부 공공데이터 활용 BI 공모전 **대상 (2023, 2024 연속 수상)**  
-- 🥇 영림원 ERP 공모전 **대상**  
-- 🏅 한국지능정보시스템학회 & 한국경영정보학회 **최우수논문상**  
-- 🏆 독서 공모전 대상 3회, KHU Fellowship 등
-
----
-
-## 🎤 Conference Talks (Selected)
-
-- **생성형 AI 기반 호텔리뷰 시스템** – 한국경영정보학회 (2024)  
-- **PPO 기반 주가 예측 정확도 비교** – 한국경영정보학회 (2024)  
-- **라이브커머스 실시간 소비자 행태 분석** – 다수 학회 (2023–2024)  
-- **기상 기반 전력 수요 예측** – 한국경영학회 (2024)
+- 🎖️ 다수의 논문 발표 및 학술대회 수상
+- 📈 대기업 R&D 협업 프로젝트 수행 (삼성엔지니어링 리스크 관리 등)
+- 🚀 다양한 AI 모델 개발 및 HuggingFace 공개 배포 중
 
 ---
 
-## 💬 Let’s Connect
+<h2>📬 Contact Me</h2>
 
-- 📬 Email: [gkfua00@plateer.com](mailto:gkfua00@plateer.com)  
-- 🤗 HuggingFace: [huggingface.co/CocoRoF](https://huggingface.co/CocoRoF)  
-- 🌍 Website: [hrletsgo.me](https://hrletsgo.me/main)  
-- 🐙 GitHub: [github.com/CocoRoF](https://github.com/CocoRoF)
+<p>
+  <a href="mailto:gkfua00@plateer.com">
+    <img src="https://img.shields.io/badge/email-gkfua00@plateer.com-blue?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/CocoRoF">
+    <img src="https://img.shields.io/badge/huggingface-CocoRoF-yellow?style=flat&logo=huggingface&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://hrletsgo.me/main">
+    <img src="https://img.shields.io/badge/portfolio-hrletsgo.me-green?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🎮 Hobbies  
-🎤 Singing | 🎹 Piano | 🎮 RPG & Simulation Games | ✍️ Prompt Engineering
+<h2 align="center">✨ Thank you for visiting! ✨</h2>
