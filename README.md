@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 HaRyeom Jang (장하렴)
+# HaRyeom Jang (장하렴)
 ### *AI Researcher & Full-Stack Developer*
 
 <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
