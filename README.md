@@ -3,10 +3,6 @@
 # HaRyeom Jang (장하렴)
 ### *AI Researcher & Full-Stack Developer*
 
-<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <h3 style="color: white; margin: 0;">🚀 Building Human-Aligned AI Systems</h3>
-  <p style="color: #f0f0f0; margin: 10px 0 0 0;">Psychology → Big Data Engineering → LLM Research</p>
-</div>
 
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-CocoRoF-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/CocoRoF)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hrletsgo.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hrletsgo.me/main)
