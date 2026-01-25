@@ -19,7 +19,7 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CocoRoF&show_icons=true&theme=tokyonight&border_radius=20&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CocoRoF&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CocoRoF&layout=compact&theme=tokyonight&border_radius=20&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
