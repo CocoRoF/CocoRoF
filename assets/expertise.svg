@@ -1,0 +1,92 @@
+<svg width="840" height="360" viewBox="0 0 840 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Areas of expertise">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#db2777"/><stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <style>
+      .card  { fill:#0d1117; stroke:#30363d; stroke-width:1; }
+      .title { font:700 17px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#e6edf3; }
+      .desc  { font:400 12.5px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#8b949e; }
+      .tag   { font:600 11px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#c9d1d9; text-anchor:middle; }
+      .chip  { fill:#161b22; stroke:#30363d; stroke-width:1; }
+      .icon  { font:400 22px sans-serif; }
+      .cell  { opacity:0; animation:pop .45s cubic-bezier(.22,1,.36,1) forwards; }
+      .d1{animation-delay:0s}.d2{animation-delay:.1s}.d3{animation-delay:.2s}.d4{animation-delay:.3s}
+      @keyframes pop { from{opacity:0; transform:translateY(12px)} to{opacity:1; transform:translateY(0)} }
+    </style>
+  </defs>
+
+  <!-- LLM Training Ops -->
+  <g class="cell d1">
+    <rect class="card" x="1" y="1" width="408" height="168" rx="14"/>
+    <rect x="1" y="1" width="4" height="168" rx="2" fill="url(#g1)"/>
+    <text class="icon" x="26" y="42">🧬</text>
+    <text class="title" x="60" y="40">LLM Training Operations</text>
+    <text class="desc" x="26" y="72">Post-training pipelines run end-to-end in production —</text>
+    <text class="desc" x="26" y="90">POLAR &amp; Korean ModernBERT model lines, trained and shipped.</text>
+    <g>
+      <rect class="chip" x="26" y="112" width="42" height="24" rx="12"/><text class="tag" x="47" y="128">SFT</text>
+      <rect class="chip" x="74" y="112" width="86" height="24" rx="12"/><text class="tag" x="117" y="128">DPO · GRPO</text>
+      <rect class="chip" x="166" y="112" width="98" height="24" rx="12"/><text class="tag" x="215" y="128">LoRA · QLoRA</text>
+      <rect class="chip" x="270" y="112" width="42" height="24" rx="12"/><text class="tag" x="291" y="128">TRL</text>
+      <rect class="chip" x="318" y="112" width="64" height="24" rx="12"/><text class="tag" x="350" y="128">Unsloth</text>
+    </g>
+  </g>
+
+  <!-- Inference & Serving -->
+  <g class="cell d2">
+    <rect class="card" x="431" y="1" width="408" height="168" rx="14"/>
+    <rect x="431" y="1" width="4" height="168" rx="2" fill="url(#g2)"/>
+    <text class="icon" x="456" y="42">⚡</text>
+    <text class="title" x="490" y="40">Inference &amp; Serving</text>
+    <text class="desc" x="456" y="72">GPU serving for real enterprise traffic — throughput,</text>
+    <text class="desc" x="456" y="90">latency and cost tuned as one system, not one metric.</text>
+    <g>
+      <rect class="chip" x="456" y="112" width="56" height="24" rx="12"/><text class="tag" x="484" y="128">vLLM</text>
+      <rect class="chip" x="518" y="112" width="94" height="24" rx="12"/><text class="tag" x="565" y="128">Quantization</text>
+      <rect class="chip" x="618" y="112" width="78" height="24" rx="12"/><text class="tag" x="657" y="128">Multi-GPU</text>
+      <rect class="chip" x="702" y="112" width="70" height="24" rx="12"/><text class="tag" x="737" y="128">LLM Ops</text>
+    </g>
+  </g>
+
+  <!-- Agent Architecture -->
+  <g class="cell d3">
+    <rect class="card" x="1" y="191" width="408" height="168" rx="14"/>
+    <rect x="1" y="191" width="4" height="168" rx="2" fill="url(#g3)"/>
+    <text class="icon" x="26" y="232">🤖</text>
+    <text class="title" x="60" y="230">Agent Architecture</text>
+    <text class="desc" x="26" y="262">Harness design for agents that act — tool use, memory,</text>
+    <text class="desc" x="26" y="280">self-verification, and multi-agent orchestration.</text>
+    <g>
+      <rect class="chip" x="26" y="302" width="48" height="24" rx="12"/><text class="tag" x="50" y="318">MCP</text>
+      <rect class="chip" x="80" y="302" width="80" height="24" rx="12"/><text class="tag" x="120" y="318">Skills SDK</text>
+      <rect class="chip" x="166" y="302" width="120" height="24" rx="12"/><text class="tag" x="226" y="318">Harness Design</text>
+      <rect class="chip" x="292" y="302" width="96" height="24" rx="12"/><text class="tag" x="340" y="318">Multi-Agent</text>
+    </g>
+  </g>
+
+  <!-- Doc → Context (RAG) -->
+  <g class="cell d4">
+    <rect class="card" x="431" y="191" width="408" height="168" rx="14"/>
+    <rect x="431" y="191" width="4" height="168" rx="2" fill="url(#g4)"/>
+    <text class="icon" x="456" y="232">📄</text>
+    <text class="title" x="490" y="230">Doc → Context (RAG)</text>
+    <text class="desc" x="456" y="262">Raw documents to model-ready context — parsing,</text>
+    <text class="desc" x="456" y="280">restructuring and retrieval that models can trust.</text>
+    <g>
+      <rect class="chip" x="456" y="302" width="64" height="24" rx="12"/><text class="tag" x="488" y="318">Parsing</text>
+      <rect class="chip" x="526" y="302" width="76" height="24" rx="12"/><text class="tag" x="564" y="318">Chunking</text>
+      <rect class="chip" x="608" y="302" width="92" height="24" rx="12"/><text class="tag" x="654" y="318">Embeddings</text>
+      <rect class="chip" x="706" y="302" width="74" height="24" rx="12"/><text class="tag" x="743" y="318">pgvector</text>
+    </g>
+  </g>
+</svg>

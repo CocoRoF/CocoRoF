@@ -1,246 +1,247 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HaRyeom%20Jang&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Full-Stack%20Engineer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7c3aed,50:2563eb,100:06b6d4&text=HaRyeom%20Jang&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Engineer%20%C2%B7%20LLM%20Training%20%C2%B7%20Serving%20%C2%B7%20Agent%20Platforms%20%C2%B7%20RAG&descSize=17&descAlignY=57" width="100%" alt="HaRyeom Jang — AI Agent Engineer"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Building+AI+agents+that+actually+ship+%F0%9F%A4%96;LLM+Training+%C2%B7+Inference+%C2%B7+Agent+Harness+%C2%B7+RAG;Part+Leader%2C+AI+R%26D+%40+Plateer)](https://hrletsgo.me)
+
+**지식과 상상력을 세상에 구현하는 AI 서비스 공학자**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Transforming+Ideas+into+Intelligent+Systems+%F0%9F%A7%A0;Building+the+Future+with+AI+%26+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://huggingface.co/CocoRoF"><img src="https://img.shields.io/badge/🤗_HuggingFace-CocoRoF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-<a href="https://hrletsgo.me/main"><img src="https://img.shields.io/badge/🌐_Portfolio-hrletsgo.me-667EEA?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="mailto:gkfua00@plateer.com"><img src="https://img.shields.io/badge/📧_Contact-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/CocoRoF"><img src="https://img.shields.io/badge/🐙_GitHub-CocoRoF-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hrletsgo.me"><img src="https://img.shields.io/badge/🌐_Portfolio-hrletsgo.me-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://huggingface.co/CocoRoF"><img src="https://img.shields.io/badge/🤗_HuggingFace-CocoRoF-FFD21E?style=for-the-badge" alt="HuggingFace"/></a>
+<a href="https://github.com/CocoRoF"><img src="https://img.shields.io/badge/GitHub-CocoRoF-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:gkfua00@plateer.com"><img src="https://img.shields.io/badge/📧_Email-gkfua00@plateer.com-EA4335?style=for-the-badge" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CocoRoF&show_icons=true&theme=tokyonight&border_radius=20&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CocoRoF&layout=compact&theme=tokyonight&border_radius=20&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg"/>
+  <img src="assets/snake-light.svg" width="100%" alt="Contribution snake"/>
+</picture>
 
 </div>
 
-<br/>
+<!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🧭 About Me
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<img align="right" src="assets/avatar-placeholder.svg" width="300" alt="Avatar"/>
 
 ```python
-class AIResearcher:
-    def __init__(self):
-        self.name = "HaRyeom Jang"
-        self.role = "AI Researcher & Full-Stack Developer"
-        self.location = "Seoul, South Korea 🇰🇷"
-        self.current_focus = [
-            "LLM Alignment & RLHF",
-            "Efficient Fine-tuning (LoRA/PEFT)",
-            "Multi-modal AI Systems"
-        ]
+from plateer import AIRnD
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+me = AIRnD.PartLeader(
+    name  = "HaRyeom Jang (장하렴)",
+    role  = "AI Agent Engineer · AI 서비스 공학자",
+    base  = "Seoul, Korea 🇰🇷",
 
-me = AIResearcher()
-me.say_hi()
+    work  = "Xgen — enterprise LLM platform "
+            "(retail · finance deployments)",
+    side  = "Geny — multi-agent playground with "
+            "live avatars & real-time TTS",
+
+    creed = "Build what's needed 1–2 years from now, "
+            "and make it run today.",
+)
 ```
+
+I design and run the **full lifecycle of LLM products** — training pipelines,
+GPU serving, agent harnesses, and document-to-context (RAG) systems.
+By day I lead product development for **[Xgen](https://hrletsgo.me)** at **Plateer AI R&D**;
+by night I grow **[Geny](https://github.com/CocoRoF/Geny)**, an autonomous multi-agent city where my experiments live.
 
 <br clear="right"/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p3c3p3f94s&rid=giphy.gif" width="30"> Research Focus & Expertise
+<!-- ══════════════════════════════ EXPERTISE ══════════════════════════════ -->
+
+## 🎯 Areas of Expertise
 
 <div align="center">
+
+<img src="assets/expertise.svg" width="100%" alt="LLM Training Operations · Inference & Serving · Agent Architecture · Doc→Context RAG"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Core AI Research
+### 🏙️ [Geny](https://github.com/CocoRoF/Geny) <img src="https://img.shields.io/github/stars/CocoRoF/Geny?style=flat-square&color=7c3aed" align="right" alt="stars"/>
 
-<div align="center">
+Autonomous **multi-agent system** — manage multiple agent sessions, orchestrate long-running tasks, and watch it all unfold in a **3D city playground**.
 
-| Domain | Technologies |
-|:------:|:-------------|
-| **LLM Alignment** | PPO, GRPO, RLHF, DPO |
-| **Knowledge Transfer** | KL Divergence, GISTLoss |
-| **NLP & Embeddings** | Sentence Transformers, BERT |
-| **Multi-modal AI** | Vision-Language Models |
-
-</div>
+`multi-agent` `orchestration` `three.js` `TTS`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Applied Technologies
+### 📄 [Contextifier](https://github.com/CocoRoF/Contextifier) <img src="https://img.shields.io/github/stars/CocoRoF/Contextifier?style=flat-square&color=7c3aed" align="right" alt="stars"/>
 
-<div align="center">
+Document processing library that turns raw documents into **AI-understandable context** — analyze, restructure, normalize, then let the model reason.
 
-| Domain | Technologies |
-|:------:|:-------------|
-| **Efficient ML** | LoRA, PEFT, QLoRA |
-| **Distributed Training** | DeepSpeed, FSDP |
-| **Graph Analytics** | GraphSAGE, GNN |
-| **Behavioral Modeling** | Recommendation Systems |
-
-</div>
+`doc-parsing` `RAG` `context-engineering`
 
 </td>
 </tr>
-</table>
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Arsenal
-
-<div align="center">
-
-### 🐍 AI/ML & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-000000?style=for-the-badge&logo=microsoft&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend & Creative Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge)
-
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 📚 Publications & Research
-
-<div align="center">
-
-> 🔗 **Full Portfolio:** [hrletsgo.me](https://hrletsgo.me/main) | **Models & Datasets:** [HuggingFace](https://huggingface.co/CocoRoF)
-
-</div>
-
-<table align="center">
 <tr>
-<th>📖 Published Papers</th>
-<th>🏗️ Major Projects</th>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**2024**
-- 📈 *Stock Price Prediction via Discussion Forum Analysis* (IEEE Access)
-- 🛒 *Real-time Live Commerce Consumer Behavior Analysis* (Under Review)
-- 🏨 *Controllable GenAI for Hotel Review Management* (Under Review)
+### 🎨 [geny-svgforge](https://github.com/CocoRoF/geny-svgforge) <img src="https://img.shields.io/pypi/v/geny-svgforge?style=flat-square&color=06b6d4&label=PyPI" align="right" alt="PyPI"/>
 
-**2023**
-- 💪 *Health Recommendation System with GraphSAGE*
-- ⚡ *Aggregated Power Resource Modeling*
+AI hands over **meaning (spec), not coordinates** — deterministic layout engine renders clean diagram SVGs. Built as a Tool/MCP for agents that draw.
+
+`diagrams` `deterministic-layout` `MCP`
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Enterprise Solutions**
-- 🏢 Samsung Engineering - Strike Risk Management System
-- ⚡ Power Demand Forecasting (DLinear + Weather Data)
+### 🖥️ [edit2ppt](https://github.com/CocoRoF/edit2ppt) <img src="https://img.shields.io/github/stars/CocoRoF/edit2ppt?style=flat-square&color=7c3aed" align="right" alt="stars"/>
 
-**Research Projects**
-- 📊 RL-based Stock Prediction (PPO/Reward Signals)
-- 🎬 Live Commerce Chat Analysis + Sales Forecasting
-- 🎨 Multi-modal GenAI Pipeline Development
+**Chat-driven PPTX studio** — restyle or extend existing deck templates by talking to it. Korean-first [web UI](https://github.com/CocoRoF/edit2ppt-web) served at hrletsgo.me.
+
+`pptx` `template-engine` `agent-editing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Agent-Native Web Stack
+
+Browsers and search built *for agents, not humans* —
+**[an-web](https://github.com/CocoRoF/an-web)** (AI-native browser engine) · **[playwLeft](https://github.com/CocoRoF/playwLeft)** (Rust automation) · **[pybrowser](https://github.com/CocoRoF/pybrowser)** · **[googer](https://github.com/CocoRoF/googer)**
+
+`rust` `headless` `tool-use`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍🎤 [geny-2d-avatar](https://github.com/CocoRoF/geny-2d-avatar) <img src="https://img.shields.io/github/stars/CocoRoF/geny-2d-avatar?style=flat-square&color=7c3aed" align="right" alt="stars"/>
+
+Semi-automated **avatar production platform** — AI-redesigned parts on standardized 2D rigs. With [geny-avatar](https://github.com/CocoRoF/geny-avatar): Live2D-style editor + AI textures.
+
+`live2d` `cubism` `genai`
 
 </td>
 </tr>
 </table>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🏆 Awards & Recognition
-
 <div align="center">
 
-| 🗓️ **Year** | 🎖️ **Achievement** | 🏢 **Organization** |
-|:-----------:|:------------------:|:-------------------:|
-| **2024** | 🥇 **BI Competition Grand Prize** *(2nd Consecutive Year)* | Ministry of Trade, Industry & Energy |
-| **2024** | 🏅 **Best Paper Award** | Korea Society of MIS |
-| **2023** | 🥇 **Public Data BI Competition Grand Prize** | Ministry of Trade, Industry & Energy |
-| **2023** | 🥇 **ERP Innovation Contest Grand Prize** | Youngrim Won |
-| **2022** | 🎓 **KHU Fellowship Scholar** | Kyung Hee University |
-| **2018-19** | 🥇 **Literary Contest Grand Prize (3x)** | Sahmyook University |
+<img src="assets/geny-placeholder.svg" width="100%" alt="Geny 3D city playground — screenshot placeholder"/>
+
+<sub>…and 70+ more experiments in [my repositories](https://github.com/CocoRoF?tab=repositories) · full write-ups at [hrletsgo.me](https://hrletsgo.me)</sub>
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🎤 Conference Presentations
+<!-- ══════════════════════════════ MODELS ══════════════════════════════ -->
+
+## 🤗 Open Models
+
+> Trained, distilled and shipped from my own pipelines — all on [**HuggingFace → CocoRoF**](https://huggingface.co/CocoRoF)
+
+| Line | What it is | Highlights |
+|:----:|:-----------|:-----------|
+| **POLAR** | Post-trained LLM lineup (DPO / GRPO / GIST distillation) | `POLAR_gemma-3-4b-dpo` · `POLAR-Qwen3-0.6b-linq-gist` |
+| **KoModernBERT** | Korean ModernBERT pre-training line | `KoModernBERT-large-mlm` series |
+| **ModernBERT-SimCSE** | Korean sentence embeddings (SimCSE, multitask distill) | retrieval-ready encoder line |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<!-- ══════════════════════════════ STACK ══════════════════════════════ -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 📅 Year | 🎯 Topic | 🏛️ Conference |
-|:-------:|:---------|:-------------:|
-| 2024 | 🏨 Controllable GenAI System for Hotel Reviews | KMIS |
-| 2024 | 📈 PPO-based Stock Prediction Accuracy Comparison | KMIS |
-| 2023-24 | 🛒 Real-time Consumer Behavior in Live Commerce | KIIS |
-| 2024 | ⚡ Weather-based Power Demand Forecasting | KMA |
+**AI / LLM Engineering**
+
+<img src="https://img.shields.io/badge/vLLM-1E90FF?style=for-the-badge" alt="vLLM"/> <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge" alt="Transformers"/> <img src="https://img.shields.io/badge/TRL-FF6F61?style=for-the-badge" alt="TRL"/> <img src="https://img.shields.io/badge/Unsloth-16A34A?style=for-the-badge" alt="Unsloth"/> <img src="https://img.shields.io/badge/DeepSpeed-0A66C2?style=for-the-badge" alt="DeepSpeed"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="MCP"/> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,rust,react,nextjs,svelte,tailwind,fastapi&perline=10" alt="Languages and frameworks"/>
+
+**Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,linux,nginx,githubactions,git,unity,kotlin&perline=10" alt="Infra and tools"/>
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🎮 Beyond Code
+<!-- ══════════════════════════════ RESEARCH ══════════════════════════════ -->
+
+## 📚 Research & Writing
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
-
-**🎤 Singing** &nbsp;•&nbsp; **🎹 Piano** &nbsp;•&nbsp; **🎮 RPG & Simulation Games** &nbsp;•&nbsp; **✍️ Prompt Engineering & AI Art**
-
-*"Creativity fuels innovation, and innovation drives progress."*
+<img src="assets/glance.svg" width="100%" alt="6 publications · 13 awards · 2 ministerial grand prizes · 1 book tech review · 40+ open models"/>
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+- 📘 **『랭체인으로 구현하는 AI 서비스 & 에이전트 개발 입문』** — Technical Reviewer (영진닷컴, 2026)
+- 📈 *Stock Price Prediction via Discussion Forum Analysis* — **IEEE Access**, 2024
+- 🏅 **Best Paper Award** — Korea Society of MIS (KMIS), 2024
+- 🎤 Conference talks on controllable GenAI, RL-based prediction, live-commerce behavior analysis — KMIS · KIIS · KMA
 
-## 📬 Let's Connect!
+<details>
+<summary><b>🏆 Full awards & honors (13)</b></summary>
+
+<br/>
+
+| Year | Achievement | Organization |
+|:----:|:------------|:-------------|
+| 2024 | 🥇 **BI Competition Grand Prize** *(2nd consecutive year)* | Ministry of Trade, Industry & Energy |
+| 2024 | 🏅 **Best Paper Award** | Korea Society of MIS |
+| 2023 | 🥇 **Public Data BI Competition Grand Prize** | Ministry of Trade, Industry & Energy |
+| 2023 | 🥇 **ERP Innovation Contest Grand Prize** | Youngrim Won |
+| 2022 | 🎓 **KHU Fellowship Scholar** | Kyung Hee University |
+| 2018–19 | 🥇 **Literary Contest Grand Prize ×3** | Sahmyook University |
+
+<div align="center">
+<img src="ImageFile/경영정보관련학회_우수논문상.jpg" width="42%" alt="KMIS Best Paper Award"/>
+&nbsp;
+<img src="ImageFile/영림원ERP공모전_대상.jpg" width="42%" alt="ERP Innovation Contest Grand Prize"/>
+</div>
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<!-- ══════════════════════════════ STATS ══════════════════════════════ -->
+
+## 📊 GitHub
 
 <div align="center">
 
-<a href="mailto:gkfua00@plateer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://huggingface.co/CocoRoF"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-<a href="https://hrletsgo.me/main"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="https://github.com/CocoRoF"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://streak-stats.demolab.com?user=CocoRoF&background=0D1117&border=30363D&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D&border_radius=16&date_format=%5BY.%5Dn.j" height="180" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=CocoRoF&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=CocoRoF&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ══════════════════════════════ FOOTER ══════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+### *"Build what the future needs — one or two years early."*
 
-### ⭐ *"Building the future, one algorithm at a time"* ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06b6d4,50:2563eb,100:7c3aed&section=footer" width="100%" alt=""/>
 
 </div>

@@ -1,0 +1,40 @@
+<svg width="840" height="260" viewBox="0 0 840 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Geny showcase placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b33"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <style>
+      .t1 { font:700 20px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#e6edf3; text-anchor:middle; }
+      .t2 { font:400 13px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#8b949e; text-anchor:middle; }
+      .win { fill:#67e8f9; }
+      .w1 { animation: blink 2.4s steps(1) infinite; }
+      .w2 { animation: blink 3.1s steps(1) infinite .8s; }
+      .w3 { animation: blink 2.8s steps(1) infinite 1.5s; }
+      @keyframes blink { 0%,100%{opacity:.9} 50%{opacity:.15} }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="838" height="258" rx="16" fill="url(#sky)" stroke="#30363d"/>
+  <rect x="1" y="1" width="838" height="258" rx="16" fill="none" stroke="url(#neon)" stroke-width="1.5" stroke-dasharray="8 10" opacity="0.55"/>
+
+  <!-- tiny skyline -->
+  <g opacity="0.85">
+    <rect x="120" y="150" width="46" height="70" rx="3" fill="#1f2440"/>
+    <rect x="176" y="120" width="58" height="100" rx="3" fill="#242a4d"/>
+    <rect x="244" y="165" width="40" height="55" rx="3" fill="#1f2440"/>
+    <rect class="win w1" x="188" y="132" width="8" height="8" rx="1"/>
+    <rect class="win w2" x="204" y="148" width="8" height="8" rx="1"/>
+    <rect class="win w3" x="132" y="162" width="8" height="8" rx="1"/>
+    <rect class="win w2" x="254" y="176" width="7" height="7" rx="1"/>
+    <line x1="100" y1="220" x2="304" y2="220" stroke="url(#neon)" stroke-width="2" opacity="0.8"/>
+  </g>
+
+  <text class="t1" x="510" y="120">Geny · 3D Agent City — screenshot coming soon</text>
+  <text class="t2" x="510" y="148">Autonomous multi-agent sessions, visualized as a living city playground</text>
+  <text class="t2" x="510" y="170">(placeholder — real capture will replace this)</text>
+</svg>

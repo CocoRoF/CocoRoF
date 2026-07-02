@@ -1,0 +1,22 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Avatar placeholder">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <style>
+      .t1 { font:700 16px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#e6edf3; text-anchor:middle; }
+      .t2 { font:400 12px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif; fill:#8b949e; text-anchor:middle; }
+      .bot { animation: hover 3s ease-in-out infinite; transform-origin:160px 140px; }
+      @keyframes hover { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
+      .dash { animation: spin 24s linear infinite; transform-origin:160px 160px; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="318" height="318" rx="24" fill="#0d1117" stroke="#30363d"/>
+  <circle class="dash" cx="160" cy="160" r="118" fill="none" stroke="url(#ring)" stroke-width="2" stroke-dasharray="10 14" opacity="0.9"/>
+  <text class="bot" x="160" y="165" font-size="72" text-anchor="middle">🤖</text>
+  <text class="t1" x="160" y="238">Avatar incoming…</text>
+  <text class="t2" x="160" y="260">(placeholder)</text>
+</svg>
