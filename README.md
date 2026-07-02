@@ -190,12 +190,6 @@ Semi-automated **avatar production platform** — AI-redesigned parts on standar
 | 2022 | **KHU Fellowship Scholar** | Kyung Hee University |
 | 2018–19 | **Literary Contest Grand Prize ×3** | Sahmyook University |
 
-<div align="center">
-<img src="ImageFile/경영정보관련학회_우수논문상.jpg" width="42%" alt="KMIS Best Paper Award"/>
-&nbsp;
-<img src="ImageFile/영림원ERP공모전_대상.jpg" width="42%" alt="ERP Innovation Contest Grand Prize"/>
-</div>
-
 </details>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
