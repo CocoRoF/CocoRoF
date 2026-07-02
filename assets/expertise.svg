@@ -27,8 +27,8 @@
   <!-- LLM Training Ops -->
   <g class="cell d1">
     <rect class="card" x="1" y="1" width="408" height="168" rx="14"/>
-    <rect x="1" y="1" width="4" height="168" rx="2" fill="url(#g1)"/>
-    <text class="title" x="26" y="40">LLM Training Operations</text>
+    <rect x="26" y="28" width="10" height="10" rx="3" fill="url(#g1)"/>
+    <text class="title" x="46" y="40">LLM Training Operations</text>
     <text class="desc" x="26" y="72">Post-training pipelines run end-to-end in production —</text>
     <text class="desc" x="26" y="90">POLAR &amp; Korean ModernBERT model lines, trained and shipped.</text>
     <g>
@@ -43,8 +43,8 @@
   <!-- Inference & Serving -->
   <g class="cell d2">
     <rect class="card" x="431" y="1" width="408" height="168" rx="14"/>
-    <rect x="431" y="1" width="4" height="168" rx="2" fill="url(#g2)"/>
-    <text class="title" x="456" y="40">Inference &amp; Serving</text>
+    <rect x="456" y="28" width="10" height="10" rx="3" fill="url(#g2)"/>
+    <text class="title" x="476" y="40">Inference &amp; Serving</text>
     <text class="desc" x="456" y="72">GPU serving for real enterprise traffic — throughput,</text>
     <text class="desc" x="456" y="90">latency and cost tuned as one system, not one metric.</text>
     <g>
@@ -58,8 +58,8 @@
   <!-- Agent Architecture -->
   <g class="cell d3">
     <rect class="card" x="1" y="191" width="408" height="168" rx="14"/>
-    <rect x="1" y="191" width="4" height="168" rx="2" fill="url(#g3)"/>
-    <text class="title" x="26" y="230">Agent Architecture</text>
+    <rect x="26" y="218" width="10" height="10" rx="3" fill="url(#g3)"/>
+    <text class="title" x="46" y="230">Agent Architecture</text>
     <text class="desc" x="26" y="262">Harness design for agents that act — tool use, memory,</text>
     <text class="desc" x="26" y="280">self-verification, and multi-agent orchestration.</text>
     <g>
@@ -73,8 +73,8 @@
   <!-- Doc → Context (RAG) -->
   <g class="cell d4">
     <rect class="card" x="431" y="191" width="408" height="168" rx="14"/>
-    <rect x="431" y="191" width="4" height="168" rx="2" fill="url(#g4)"/>
-    <text class="title" x="456" y="230">Doc → Context (RAG)</text>
+    <rect x="456" y="218" width="10" height="10" rx="3" fill="url(#g4)"/>
+    <text class="title" x="476" y="230">Doc → Context (RAG)</text>
     <text class="desc" x="456" y="262">Raw documents to model-ready context — parsing,</text>
     <text class="desc" x="456" y="280">restructuring and retrieval that models can trust.</text>
     <g>

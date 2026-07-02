@@ -18,13 +18,10 @@
       .stat { opacity:0; animation:rise .45s cubic-bezier(.22,1,.36,1) forwards; }
       .s1{animation-delay:0s}.s2{animation-delay:.08s}.s3{animation-delay:.16s}.s4{animation-delay:.24s}.s5{animation-delay:.32s}
       @keyframes rise { from{opacity:0; transform:translateY(14px)} to{opacity:1; transform:translateY(0)} }
-      .bar { animation:sweep 3.2s ease-in-out infinite alternate; }
-      @keyframes sweep { from{opacity:.55} to{opacity:1} }
     </style>
   </defs>
 
   <rect class="card" x="1" y="1" width="838" height="148" rx="16"/>
-  <rect class="bar" x="1" y="1" width="838" height="4" rx="2" fill="url(#accent)"/>
 
   <g class="stat s1">
     <text class="num" x="92" y="72">6</text>
