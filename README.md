@@ -161,28 +161,6 @@ Semi-automated **avatar production platform** — AI-redesigned parts on standar
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ══════════════════════════════ STACK ══════════════════════════════ -->
-
-## Tech Stack
-
-<div align="center">
-
-**AI / LLM Engineering**
-
-<img src="https://img.shields.io/badge/vLLM-1E90FF?style=for-the-badge" alt="vLLM"/> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/> <img src="https://img.shields.io/badge/TRL-FF6F61?style=for-the-badge" alt="TRL"/> <img src="https://img.shields.io/badge/Unsloth-16A34A?style=for-the-badge" alt="Unsloth"/> <img src="https://img.shields.io/badge/DeepSpeed-0A66C2?style=for-the-badge" alt="DeepSpeed"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="MCP"/> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,rust,react,nextjs,svelte,tailwind,fastapi&perline=10" alt="Languages and frameworks"/>
-
-**Infra & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,linux,nginx,githubactions,git,unity,kotlin&perline=10" alt="Infra and tools"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 <!-- ══════════════════════════════ RESEARCH ══════════════════════════════ -->
 
 ## Research & Writing
